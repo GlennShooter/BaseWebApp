@@ -18,3 +18,7 @@ p {
   height: 140px;
   margin-top: 20px;
 }
+
+li {float: left;
+	display: inline;
+	margin: 10px}
